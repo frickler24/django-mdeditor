@@ -36,8 +36,8 @@
                 pagebreak        : "Seitenumbruch",
                 watch            : "Unwatch",
                 unwatch          : "Watch",
-                preview          : "HTML Vorschau (Shift + ESC zum verlassen)",
-                fullscreen       : "Vollbild (ESC zum verlassen)",
+                preview          : "HTML Vorschau (Shift + ESC zum Verlassen)",
+                fullscreen       : "Vollbild (ESC zum Verlassen)",
                 clear            : "Löschen",
                 search           : "Suchen",
                 help             : "Hilfe",
@@ -71,20 +71,20 @@
                     link     : "Link",
                     alt      : "Titel",
                     uploadButton     : "Hochladen",
-                    imageURLEmpty    : "Fehler: Bild URL Adresse darf nciht leer sein.",
+                    imageURLEmpty    : "Fehler: Bild URL Adresse darf nicht leer sein.",
                     uploadFileEmpty  : "Fehler: Bild darf nicht leer sein!",
-                    formatNotAllowed : "Fehler: nur Bilddatei upload möglich. Bitte im Format:"
+                    formatNotAllowed : "Fehler: Nur Bilddatei upload möglich. Bitte im Format:"
                 },
                 preformattedText : {
                     title             : "Vorformatierter Text / Codeblock ",
-                    emptyAlert        : "Fehler: Bitte den vorformatierten text oder Code Inhalt eingeben.",
+                    emptyAlert        : "Fehler: Bitte den vorformatierten Text oder Code Inhalt eingeben.",
                     placeholder       : "Codiere jetzt ..."
                 },
                 codeBlock : {
                     title             : "Codeblock",
                     selectLabel       : "Sprachen: ",
                     selectDefaultText : "Programmiersprache wählen...",
-                    otherLanguage     : "Andere sprachen",
+                    otherLanguage     : "Andere Sprachen",
                     unselectedLanguageAlert : "Fehler: Bitte Programmiersprache wählen.",
                     codeEmptyAlert    : "Fehler: Bitte den Code Inhalt eingeben.",
                     placeholder       : "Codiere jetzt ..."
